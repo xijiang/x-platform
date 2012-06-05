@@ -1,0 +1,25 @@
+#+title: Ideal population simulation platform
+#+author: Xijiang Yu
+#+date: <2012-06-05 Tue>
+
+* File
+** File pgsnp.cpp
+*** Description
+    - This is the main file for simulating the ideal population
+    - It uses constant population size.
+    - The parameters needed are:
+      + The constant effective pupulation size
+      + Chromosome length in Morgan
+      + Number of generations for random mating
+      + Mutation rate /meiosis/10^8 base pair
+    - Results are written to the standard output, which can be redirected.
+    - The program will be based on a given pedigree in the next version
+
+*** Performance
+
+** File pdrop.cpp
+*** Description
+
+*** Performance
+
+* References
